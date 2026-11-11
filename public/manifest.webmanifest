@@ -1,0 +1,14 @@
+{
+  "name": "Rad van de Teuteleers",
+  "short_name": "Teuteleers",
+  "description": "Te laat? Draaien aan het Rad van de Teuteleers!",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d2a0a",
+  "theme_color": "#0d2a0a",
+  "icons": [
+    { "src": "/icon.png", "sizes": "3000x2308", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
